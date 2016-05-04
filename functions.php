@@ -7,6 +7,8 @@ function agilsun_imagesize() {
     add_theme_support('post-thumbnails'); // dich vu size thumbnail
     add_image_size('img-feature', 868, 449, true);
      add_image_size('img-newspost', 262, 150, true);
+     add_image_size('img-productbig', 420, 420, true);
+     add_image_size('img-productsmall', 68, 68, true);
 }
 
 add_action('after_setup_theme', 'agilsun_imagesize');
