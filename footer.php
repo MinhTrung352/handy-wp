@@ -78,26 +78,7 @@
       
       
 
-      <div class="partner-item">
-        <img src="//cdn.shopify.com/s/files/1/1195/5258/t/3/assets/partner_logo_5.png?7472155404521155336" alt="" />
-        <a href="#" class="tb-button">Visit Shop</a>
-      </div>
-
       
-
-      
-      
-
-      
-
-      
-      
-
-      <div class="partner-item">
-        <img src="//cdn.shopify.com/s/files/1/1195/5258/t/3/assets/partner_logo_6.png?7472155404521155336" alt="" />
-        <a href="#" class="tb-button">Visit Shop</a>
-      </div>
-
       
 
       

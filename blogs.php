@@ -146,45 +146,6 @@
   ?>                                 
 </div>
       
-<!-- <div class="pagination-holder">
- 
-  <ul class="pagination">
-
-    
-    <li>
-      <a class="prev disabled" href="javascript:;">
-        Previous
-      </a>
-    </li>
-    
-
-    
-      
-        
-        <li class="active"><a href="javascript:;">1</a></li>
-        
-      
-    
-      
-        <li><a href="news_2.htm">2</a></li>
-      
-    
-      
-        <li><a href="news_3.htm">3</a></li>
-      
-    
-
-    
-    <li>
-      <a href="news_2.htm" title="Next" class="next">
-        Next
-      </a>
-    </li>
-    
-
-  </ul>
-
-</div> -->
 
 
 
